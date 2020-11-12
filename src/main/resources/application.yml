@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: wave-file
+
+server:
+  port: 8080
